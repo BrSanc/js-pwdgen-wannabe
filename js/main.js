@@ -13,3 +13,5 @@ console.log(userRandomPassword);
 document.getElementById("randomPassword").innerHTML = userRandomPassword;
 
 document.getElementById("userName").innerHTML = userName;
+document.getElementById("userSurname").innerHTML = userSurname;
+document.getElementById("userFavoriteColor").innerHTML = userFavoriteColor;
